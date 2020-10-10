@@ -1,0 +1,16 @@
+{
+    "name": "UniAddressablesOnMemoryAssetBundleList",
+    "references": [
+        "GUID:d2221597595df3e44ba05cd9c0f5f914",
+        "GUID:314595622958c124786b7c44edd2bcb8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
